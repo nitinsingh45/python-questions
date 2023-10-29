@@ -1,0 +1,5 @@
+Anagrams are words or phrases formed by rearranging the letters of another word or phrase, using all the original letters exactly once.
+This program defines a function are_anagrams that takes two words as input,
+removes spaces and converts them to lowercase, 
+and then checks if the sorted letters of both words are the same.
+If they are, it prints that the words are anagrams; otherwise, it prints that they are not.
